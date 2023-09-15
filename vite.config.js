@@ -39,7 +39,7 @@ export default defineConfig({
       },
     },
   },
-  base: '/dragonheartcrazy.github.io/',
+
   build: {
     outDir: 'docs',
   },
